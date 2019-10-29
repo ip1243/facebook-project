@@ -25,7 +25,7 @@ SECRET_KEY = '(qv7nxxq!^*^9okj4#zw+qhkx==a2=ii+)50*kp8@d0c(4w5e8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['facebook-project-app.herokuapp.com']
 
 
 # Application definition
